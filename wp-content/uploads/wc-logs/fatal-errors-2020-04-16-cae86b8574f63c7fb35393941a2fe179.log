@@ -1,0 +1,440 @@
+2020-04-16T00:05:34+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:12:20+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:13:05+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:13:09+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:28:49+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:29:35+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:29:40+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:29:45+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:30:49+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:32:55+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:34:45+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:35:31+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:37:02+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:37:12+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:37:18+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:38:15+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:40:04+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:40:11+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:40:49+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:44:11+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:44:16+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:49:17+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:49:23+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:49:28+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:49:33+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:51:10+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:51:23+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:51:31+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:51:37+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:52:52+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:52:53+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:52:54+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:52:57+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:53:00+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:53:03+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:53:03+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:53:04+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:53:06+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:53:34+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:53:34+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:54:21+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-product.php(40): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\w en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T00:58:56+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T17:19:40+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
+2020-04-16T17:20:31+00:00 CRITICAL Uncaught Error: Call to undefined function groci_resize() in C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php:64
+Stack trace:
+#0 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(287): groci_shop_thumbnail('')
+#1 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\woocommerce\content-related-product.php(34): do_action('woocommerce_bef...')
+#4 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-includes\template.php(725): require('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(197): load_template('C:\\xampp\\htdocs...', false)
+#6 C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\t en C:\xampp\htdocs\Proyectos\Store Express\wordpress\wp-content\themes\groci\includes\woocommerce.php en la línea 64
+
